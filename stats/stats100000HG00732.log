@@ -1,0 +1,22 @@
+Phasing statistics for sample HG00732 from file phase2Improved100000HG00732split.vcf
+---------------- Chromosome chr1 ----------------
+     Variants in VCF:   353042
+        Heterozygous:   165241 (  165241 SNVs)
+              Phased:    66648 (   66648 SNVs)
+            Unphased:    98592 (not considered below)
+          Singletons:        1 (not considered below)
+              Blocks:    23472
+
+Block sizes (no. of variants)
+   Median block size:        2.00 variants
+  Average block size:        2.84 variants
+       Largest block:       86    variants
+      Smallest block:        2    variants
+
+Block lengths (basepairs)
+      Sum of lengths: 1699099638    bp
+ Median block length:      139.00 bp
+Average block length:    72388.36 bp
+       Longest block: 35817284    bp
+      Shortest block:        1    bp
+           Block N50:      nan    bp

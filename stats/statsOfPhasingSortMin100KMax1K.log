@@ -1,0 +1,33 @@
+cycle			no. reads selected
+ selection cycle 0	11936
+ bridging cycle  0	247
+ selection cycle 1	4125
+ bridging cycle  1	26
+ selection cycle 2	2542
+ bridging cycle  2	12
+ selection cycle 3	1746
+ bridging cycle  3	5
+ selection cycle 4	1140
+ bridging cycle  4	1
+ selection cycle 5	753
+ bridging cycle  5	0
+ selection cycle 6	484
+ bridging cycle  6	0
+ selection cycle 7	313
+ bridging cycle  7	0
+ selection cycle 8	191
+ bridging cycle  8	0
+ selection cycle 9	111
+ bridging cycle  9	0
+ selection cycle 10	62
+ bridging cycle  10	0
+ selection cycle 11	28
+ bridging cycle  11	0
+ selection cycle 12	12
+ bridging cycle  12	0
+ selection cycle 13	4
+ bridging cycle  13	0
+ selection cycle 14	2
+ bridging cycle  14	0
+             largest block   overall variants       frequency of phased variants(in %)
+ with RS	16		353042			6.562108757598247

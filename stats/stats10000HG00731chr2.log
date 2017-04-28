@@ -1,0 +1,22 @@
+Phasing statistics for sample HG00731 from file phase2Improved10000HG00731chr2.vcf
+---------------- Chromosome chr2 ----------------
+     Variants in VCF:   368407
+        Heterozygous:   164525 (  164525 SNVs)
+              Phased:    51166 (   51166 SNVs)
+            Unphased:   113358 (not considered below)
+          Singletons:        1 (not considered below)
+              Blocks:    19367
+
+Block sizes (no. of variants)
+   Median block size:        2.00 variants
+  Average block size:        2.64 variants
+       Largest block:       46    variants
+      Smallest block:        2    variants
+
+Block lengths (basepairs)
+      Sum of lengths: 1772637806    bp
+ Median block length:      124.00 bp
+Average block length:    91528.78 bp
+       Longest block: 13769966    bp
+      Shortest block:        1    bp
+           Block N50:      nan    bp

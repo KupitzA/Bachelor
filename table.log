@@ -1,0 +1,7 @@
+				largest block	median block(N50)	fraction of phased variants(in %)
+
+ without readselection  	17683		1			39.04039745979232
+ with readselection		101		3			14.84752522362778
+
+ without RS with <1.000.000 	11917		1			37.62271910990761		
+ with RS <1.000.000		100		2			14.409900238498535		
